@@ -6,5 +6,5 @@ folium
 streamlit
 seaborn
 requests
-matplotlib.pyplot
+matplotlib
 sklearn
